@@ -1,0 +1,2 @@
+- Redis là 1 cơ sở dữ liệu NoSql có cấu trúc Key-Value, nó hỗ trợ nhiều kiểu dữ liệu khác nhau strings, hashes, lists, sets, sorted.
+- Redis lưu và đọc ghi dữ liệu trên RAM, điều này nhanh hơn khi thao tác trên ổ cứng
